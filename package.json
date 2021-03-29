@@ -1,0 +1,19 @@
+{
+  "name": "visual-nuts",
+  "version": "1.0.0",
+  "description": "Visual Algorithmy exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "visual-nuts",
+    "exercises"
+  ],
+  "author": "Ivan Frias (frias.ivan@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
